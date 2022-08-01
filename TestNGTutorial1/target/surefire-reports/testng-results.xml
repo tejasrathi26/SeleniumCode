@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-04T10:38:58 GMT+05:30" name="Command line suite" finished-at="2022-04-04T10:38:58 GMT+05:30" duration-ms="26">
+    <groups>
+    </groups>
+    <test started-at="2022-04-04T10:38:58 GMT+05:30" name="Command line test" finished-at="2022-04-04T10:38:58 GMT+05:30" duration-ms="26">
+      <class name="Tasty.AppiumTest">
+        <test-method signature="getTest()[pri:0, instance:Tasty.AppiumTest@3e694b3f]" started-at="2022-04-04T10:38:58 GMT+05:30" name="getTest" finished-at="2022-04-04T10:38:58 GMT+05:30" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTest -->
+        <test-method signature="getTest2()[pri:0, instance:Tasty.AppiumTest@3e694b3f]" started-at="2022-04-04T10:38:58 GMT+05:30" name="getTest2" finished-at="2022-04-04T10:38:58 GMT+05:30" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTest2 -->
+        <test-method signature="getTest3()[pri:0, instance:Tasty.AppiumTest@3e694b3f]" started-at="2022-04-04T10:38:58 GMT+05:30" name="getTest3" finished-at="2022-04-04T10:38:58 GMT+05:30" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTest3 -->
+        <test-method signature="getTest4()[pri:0, instance:Tasty.AppiumTest@3e694b3f]" started-at="2022-04-04T10:38:58 GMT+05:30" name="getTest4" finished-at="2022-04-04T10:38:58 GMT+05:30" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTest4 -->
+      </class> <!-- Tasty.AppiumTest -->
+      <class name="Tasty.SeleniumTest">
+        <test-method signature="mobileSignup()[pri:0, instance:Tasty.SeleniumTest@28701274]" started-at="2022-04-04T10:38:58 GMT+05:30" name="mobileSignup" finished-at="2022-04-04T10:38:58 GMT+05:30" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileSignup -->
+        <test-method signature="mobileLoginOut()[pri:0, instance:Tasty.SeleniumTest@28701274]" started-at="2022-04-04T10:38:58 GMT+05:30" name="mobileLoginOut" finished-at="2022-04-04T10:38:58 GMT+05:30" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileLoginOut -->
+      </class> <!-- Tasty.SeleniumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
